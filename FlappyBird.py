@@ -5,7 +5,7 @@ import random
 
 # Definindo tamnho da tela
 larguta_tel = 500
-altura_tel = 700
+altura_tel = 800
 
 # Carregndo imagens
 IMAGEM_CANO = pg.transform.scale2x(
