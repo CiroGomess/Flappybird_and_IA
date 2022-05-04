@@ -289,7 +289,7 @@ def main(genomas, config):
                     passaros.pop(i)
 
                     if ai_jogando:
-                        lista_genomas[i].fitness -= 1
+                        lista_genomas[i].fitness -= 2
                         lista_genomas.pop(i)
                         redes.pop(i)
 
@@ -306,7 +306,7 @@ def main(genomas, config):
             canos.append(Cano(600))
 
             for genoma in lista_genomas:
-                genoma.fitness += 5
+                genoma.fitness += 1
 
 
         for cano in remover_canos:
