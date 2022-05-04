@@ -10,8 +10,12 @@
 # Flappybird e IA
 Esse projeto foi desenvolvido para fins de estudos, implementando uma IA para jogar o jogo FlappyBird.
 
-## 🛠 Tecnologias
+<p align="center">
+<img width="200" heigth="125" src="to_readme/ia.gif"/>
+</p>
 
+
+## 🛠 Tecnologias
 As seguintes ferramentas foram usadas na construção do projeto:
 - [NEAT](https://neat-python.readthedocs.io/en/latest/neat_overview.html)
 - [Python](https://www.python.org/)
